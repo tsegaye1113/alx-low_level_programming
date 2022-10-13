@@ -1,7 +1,2 @@
-
 #!/bin/bash
-gcc  .o $CFILE
-
-
-
-
+gcc -s $CFILE 
